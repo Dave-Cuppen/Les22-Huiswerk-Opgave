@@ -1,0 +1,39 @@
+body {
+    background-color: lightslategray;
+}
+
+.container-sm {
+    background-color: white;
+    text-align: center;
+}
+
+header {
+    border-bottom: 1px dashed darkslategray;
+    margin-bottom: 10px;
+}
+
+footer {
+    border-top: 1px dashed darkslategray;
+    height: 200px;
+    padding: 20px;
+    text-align: center;
+    color: darkslategray;
+    font-size: 12px;
+}
+
+h1 {
+    color: darkslategray;
+}
+
+img {
+    border: 1px solid darkslategray;
+    border-radius: 6px;
+    margin: 20px auto;
+    width: 300px;
+    height: 200px;
+}
+
+/* Contactformulier */
+form .col {
+    margin-bottom: 20px;
+}
